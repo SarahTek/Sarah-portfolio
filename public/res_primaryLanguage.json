@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Sarah Teklemariam. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Sarah Teklemariam.  I am a software development student at code fellows. Before I joined code fellows I was working as a nurse assistant in a hospital. I  decided to learn software development because i needed a career change to tech. Some of the reasons i chose to learn this skill are the ability to do work from anywhere, to be as creative as you want to, and last but not least working in a comfortable environment and to constantly learn and grow. I would like to work with team of people. I feel that by working closely with a team , we can inspire each other, collaborate better and communicate effectively. I believe My willingness to adopt, aiming  for success and making efforts to solve problems can give me the boost in my future career in tech.Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -21,8 +21,8 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
             "class": "devicon-typescript-plain",

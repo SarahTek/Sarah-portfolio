@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Sarah Teklemariam",
-      "titles": [ "Software Developer" ],
+      "titles": [ " Junior Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/SarahTek",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/sarah-t-31658b190/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "sarah.jpg"
     },
     "skills": {
       "icons": [
