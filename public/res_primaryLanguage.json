@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Sarah Teklemariam.  I am a software development student at code fellows. Before I joined code fellows I was working as a nurse assistant in a hospital. I  decided to learn software development because i needed a career change to tech. Some of the reasons i chose to learn this skill are the ability to do work from anywhere, to be as creative as you want to, and last but not least working in a comfortable environment and to constantly learn and grow. I would like to work with team of people. I feel that by working closely with a team , we can inspire each other, collaborate better and communicate effectively. I believe My willingness to adopt, aiming  for success and making efforts to solve problems can give me the boost in my future career in tech.Thank you 💜",
+      "description": "👋 I'm Sarah Teklemariam. I have an associate in tourism and hotel management.I previously worked in healthcare as a nurse assistance. I am passionate about improving  the quality of everyday life of the people in need and bring smile to their faces and I took interest in tech and dreamt of a career change to  software development in 2021. I have also been I working on improving my spoken English as my second language  since I made a permanent move. I have also  learned  languages and tools like HTML,CSS, Javascript , React, Bootstrap, VSCode, and GitHub and created several applications and websites as an individual and also Worked in a team setting. I believe My willingness to adopt, aiming  for success and making efforts to solve problems can give me the boost in my future career in tech.Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
+        "title": "Horned Beasts",
+        "startDate": "2022",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/hornedbeast.png",
+          "images/portfolio/animal-shelter/hornedbeast2.png"
         ],
         "url": "",
         "technologies": [
@@ -25,28 +25,28 @@
             "name": "HTML 5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-react-original",
+            "name": "React"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
+        "title": "Bus mall",
+        "startDate": "2022",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/salmoncookies.png",
+          "images/portfolio/photography/busmall.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,26 +55,26 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
+        "title": "TRAVEL WEBSITES",
+        "startDate": "2022",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/whereto.png",
+          "images/portfolio/adventure/aboutus.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
@@ -82,36 +82,33 @@
     "experience": [
       {
         "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "title": "Software Developer",
+        "years": "2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Javascript  2022"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+           "HTML5",
+           "CSS3"
+
         ]
       },
       {
         "company": "Serros Solutions",
         "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "years": "Jan 2022 - present",
         "mainTech": [
-          "Angular 7/8"
+          "Javascript 2022"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "HTML5",
+          "CSS3",
+          "React",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Bootstrap"
         ]
       }
     ]
